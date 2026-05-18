@@ -1,0 +1,9 @@
+data/images/
+data/train.csv
+data/test.csv
+models/*.pth
+cv_results.json
+runs/
+__pycache__/
+*.pyc
+.env
